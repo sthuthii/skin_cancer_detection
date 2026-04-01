@@ -1,0 +1,16 @@
+numpy
+pandas
+
+torch
+torchvision
+timm
+
+flwr
+
+Pillow
+opencv-python
+
+scikit-learn
+matplotlib
+
+grad-cam
