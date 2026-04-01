@@ -1,3 +1,5 @@
+#use for simulated setup
+
 import flwr as fl
 import torch
 import torch.nn as nn

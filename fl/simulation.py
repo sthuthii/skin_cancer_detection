@@ -1,3 +1,5 @@
+#use for simulated setup
+
 import flwr as fl
 import pandas as pd
 import os
